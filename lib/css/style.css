@@ -641,7 +641,7 @@ ul.social li a i:hover {
 #intro{
 	width:100%;
 	z-index:1;
-	background: url('../images/bg.jpg');
+	background: url('../images/header.jpg');
 	background-position: center top;
     background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -687,7 +687,7 @@ h3.countdown_subtitle{
 h3.countdown_subtitle span {
 	text-transform:uppercase;
 	font-weight:700;
-	color:#3498db;
+	color: white;
 	font-style:normal;
 	font-family: 'PT Sans', sans-serif;
 }
@@ -731,7 +731,7 @@ ul#countdown li p.timeRefHours,
 ul#countdown li p.timeRefMinutes,
 ul#countdown li p.timeRefSeconds {
 	margin-top:3px;
-	color:#3498db;
+	color: white;
   	text-transform: uppercase;
   	font-size: 16px;
 	line-height:16px;
@@ -880,7 +880,7 @@ p.event_info span{
 	position:relative;
 	width:100%;
 	z-index:10;
-	background: url('../images/bc.jpg');
+	background: url('../images/content.jpg');
 	background-position: center top;
     background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -1154,7 +1154,7 @@ p.autor span {
 	position:relative;
 	width:100%;
 	z-index:10;
-	background: url('../images/bc2.jpeg');
+	background: url('../images/content.jpg');
 	background-position: center top;
     background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -1626,6 +1626,7 @@ a.contact_details{
 	ul#countdown li p.timeRefSeconds {
 		font-size: 12px;
 		line-height: 12px;
+		color: white;
 	}
 		
 	.services_item {
