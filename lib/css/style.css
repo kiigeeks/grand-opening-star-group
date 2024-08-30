@@ -687,7 +687,7 @@ h3.countdown_subtitle{
 h3.countdown_subtitle span {
 	text-transform:uppercase;
 	font-weight:700;
-	color: white;
+	color: #2b2b2b;
 	font-style:normal;
 	font-family: 'PT Sans', sans-serif;
 }
